@@ -1,4 +1,4 @@
-module github.com/ixmilia/dxf-go
+module github.com/atuleu/dxf-go
 
 go 1.17
 
