@@ -1,4 +1,3 @@
-*.generated.go
 debug.test
 integration_tests/
 saved_examples/
